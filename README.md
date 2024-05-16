@@ -62,3 +62,13 @@ await fresnsInit();
 - 发布内容：用于`发表帖子和评论`
 - 剪切板：用于`复制分享链接和帖子内容中的超链接`
 - 设备信息：用于`记录互动和错误问题的日志`
+
+## 加入我们
+
+Fresns 的开源社区正在急速增长中，如果你认可我们的开源软件，有兴趣为 Fresns 的发展做贡献，竭诚欢迎[加入我们](https://fresns.org/zh-Hans/community/join.html)一起开发完善。无论是[报告错误](https://fresns.org/zh-Hans/guide/feedback.html)或是 Pull Request 开发，那怕是修改一个错别字也是对我们莫大的帮助。
+
+贡献指南：[https://fresns.org/contributing/](https://fresns.org/zh-Hans/contributing/)
+
+## 许可协议
+
+Fresns 是根据 [Apache-2.0](https://opensource.org/licenses/Apache-2.0) 授权的开源软件。

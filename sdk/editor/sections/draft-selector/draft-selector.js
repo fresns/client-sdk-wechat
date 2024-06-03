@@ -3,7 +3,7 @@
  * Copyright 2021-Present 唐杰
  * Licensed under the Apache-2.0 license
  */
-import { fresnsApi } from '../../../services';
+import { fresnsApi } from '../../../services/api';
 import { fresnsLang } from '../../../helpers/configs';
 import { isEmpty } from '../../../utilities/toolkit';
 
@@ -133,8 +133,16 @@ Component({
           tipType = listCount > 0 ? 'page' : 'empty';
         }
 
+        // 处理内容截断
+        const modifiedList = list.map((item) => {
+          if (item.contentLength > 40) {
+            item.content = item.content.slice(0, 40) + '...';
+          }
+          return item;
+        });
+
         this.setData({
-          drafts: this.data.drafts.concat(list),
+          drafts: this.data.drafts.concat(modifiedList),
           loadingTipType: tipType,
           isReachBottom: isReachBottom,
         });

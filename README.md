@@ -39,7 +39,7 @@ Fresns 是一款免费开源的社交网络服务软件，专为跨平台而打�
 - 在小程序 `app.js` 中引用，放置在 `onShow` 用于初始化小程序配置。
 
 ```js
-import { fresnsInit } from '/sdk/services';
+import { fresnsInit } from '/sdk/services/init';
 
 await fresnsInit();
 ```

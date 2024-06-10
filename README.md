@@ -30,9 +30,10 @@ Fresns 是一款免费开源的社交网络服务软件，专为跨平台而打�
 
 > *开发中*
 
-## 使用演示
+## 使用案例
 
-[https://github.com/fresns/client-demo-wechat](https://github.com/fresns/client-demo-wechat)
+- 演示: [https://github.com/fresns/client-demo-wechat](https://github.com/fresns/client-demo-wechat)
+- 案例: [https://github.com/jevantang/zhijie-app](https://github.com/jevantang/zhijie-app)
 
 ## 初始化
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fresns.org/zh-Hans/" target="_blank"><img src="https://assets.fresns.com/images/logos/fresns.png" width="300"></a></p>
+<p align="center"><a href="https://fresns.org/zh-hans/" target="_blank"><img src="https://assets.fresns.com/images/logos/fresns.png" width="300"></a></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/WeChat-Mini%20Program-blueviolet" alt="WeChat">
@@ -10,10 +10,10 @@
 
 Fresns 是一款免费开源的社交网络服务软件，专为跨平台而打造的通用型社区产品，支持灵活多样的内容形态，可以满足多种运营场景，符合时代潮流，更开放且更易于二次开发。
 
-- [点击了解产品 16 个功能特色](https://fresns.org/zh-Hans/intro/features.html)
-- 使用者请阅读[安装教程](https://fresns.org/zh-Hans/guide/install.html)和[运营文档](https://fresns.org/zh-Hans/intro/operating.html)
-- 扩展插件开发者请阅读[扩展文档](https://docs.fresns.com/zh-Hans/open-source/)和[数据字典](https://docs.fresns.com/zh-Hans/open-source/database/)
-- 客户端开发者（网站端、小程序、App）请阅读 [API 文档](https://docs.fresns.com/zh-Hans/clients/api/)
+- [点击了解产品 16 个功能特色](https://fresns.org/zh-hans/intro/features.html)
+- 使用者请阅读[安装教程](https://fresns.org/zh-hans/guide/install.html)和[运营文档](https://fresns.org/zh-hans/intro/operating.html)
+- 扩展插件开发者请阅读[扩展文档](https://docs.fresns.com/zh-hans/open-source/)和[数据字典](https://docs.fresns.com/zh-hans/open-source/database/)
+- 客户端开发者（网站端、小程序、App）请阅读 [API 文档](https://docs.fresns.com/zh-hans/clients/api/)
 
 ## SDK 介绍
 
@@ -49,11 +49,11 @@ await fresnsInit();
 
 ## 开发文档
 
-- [API](https://docs.fresns.com/zh-Hans/clients/sdk/wechat/api.html)
-- [功能函数](https://docs.fresns.com/zh-Hans/clients/sdk/wechat/functions.html)
-- [插件扩展](https://docs.fresns.com/zh-Hans/clients/sdk/wechat/extensions.html)
-- [编辑器](https://docs.fresns.com/zh-Hans/clients/sdk/wechat/editor.html)
-- [工具包](https://docs.fresns.com/zh-Hans/clients/sdk/wechat/toolkit.html)
+- [API](https://docs.fresns.com/zh-hans/clients/sdk/wechat/api.html)
+- [功能函数](https://docs.fresns.com/zh-hans/clients/sdk/wechat/functions.html)
+- [插件扩展](https://docs.fresns.com/zh-hans/clients/sdk/wechat/extensions.html)
+- [编辑器](https://docs.fresns.com/zh-hans/clients/sdk/wechat/editor.html)
+- [工具包](https://docs.fresns.com/zh-hans/clients/sdk/wechat/toolkit.html)
 
 **小程序隐私保护指引**
 
@@ -66,9 +66,9 @@ await fresnsInit();
 
 ## 加入我们
 
-Fresns 的开源社区正在急速增长中，如果你认可我们的开源软件，有兴趣为 Fresns 的发展做贡献，竭诚欢迎[加入我们](https://fresns.org/zh-Hans/community/join.html)一起开发完善。无论是[报告错误](https://fresns.org/zh-Hans/guide/feedback.html)或是 Pull Request 开发，那怕是修改一个错别字也是对我们莫大的帮助。
+Fresns 的开源社区正在急速增长中，如果你认可我们的开源软件，有兴趣为 Fresns 的发展做贡献，竭诚欢迎[加入我们](https://fresns.org/zh-hans/community/join.html)一起开发完善。无论是[报告错误](https://fresns.org/zh-hans/guide/feedback.html)或是 Pull Request 开发，那怕是修改一个错别字也是对我们莫大的帮助。
 
-贡献指南：[https://fresns.org/contributing/](https://fresns.org/zh-Hans/contributing/)
+贡献指南：[https://fresns.org/contributing/](https://fresns.org/zh-hans/contributing/)
 
 ## 许可协议
 
